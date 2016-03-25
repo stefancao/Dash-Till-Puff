@@ -1,9 +1,8 @@
-package team.dash_till_puff;
+package com.example.stefancao.dash_till_puff;
 
 /**
- * Created by junli on 4/29/15.
+ * Created by stefancao on 3/25/16.
  */
-//2d point that draws the trajectory
 public class Point2D {
     public int x, y;
     public Point2D(int x, int y) {

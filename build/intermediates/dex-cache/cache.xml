@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/stefancao/AndroidStudioProjects/Dash-Till-Puff/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/Users/stefancao/AndroidStudioProjects/Dash-Till-Puff/app/build/intermediates/pre-dexed/debug/internal_impl-23.2.1_13196bcc1cb72b1460600b835ca02cc3f25e6a1d.jar" />
+    </item>
+    <item
+        jar="/Users/stefancao/AndroidStudioProjects/Dash-Till-Puff/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e3885783ff8926ed9e2fdcd16816c2e1e73e7aee">
+        <dex dex="/Users/stefancao/AndroidStudioProjects/Dash-Till-Puff/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-23.2.1_d8237e7ce24a1d8491bc4852a73f560ef7422cd4.jar" />
+    </item>
+    <item
+        jar="/Users/stefancao/AndroidStudioProjects/Dash-Till-Puff/app/build/intermediates/exploded-aar/com.android.support/design/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="72961d8b453b46e277702f18de9d210bc019e36e">
+        <dex dex="/Users/stefancao/AndroidStudioProjects/Dash-Till-Puff/app/build/intermediates/pre-dexed/debug/com.android.support-design-23.2.1_59cc630d1a129b7d161c8d1b37cf2d00ee5c71d0.jar" />
+    </item>
+    <item
+        jar="/Users/stefancao/AndroidStudioProjects/Dash-Till-Puff/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/Users/stefancao/AndroidStudioProjects/Dash-Till-Puff/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-23.2.1_6dd059869af461570300fe9a22b9ac17b56c6ed8.jar" />
+    </item>
+    <item
+        jar="/Users/stefancao/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/Users/stefancao/AndroidStudioProjects/Dash-Till-Puff/app/build/intermediates/pre-dexed/debug/support-annotations-23.2.1_592c56eb03b3abf6f2146c4720b9368c866d2b81.jar" />
+    </item>
+    <item
+        jar="/Users/stefancao/AndroidStudioProjects/Dash-Till-Puff/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/Users/stefancao/AndroidStudioProjects/Dash-Till-Puff/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.2.1_e9ba0b3387b6dc539b577ddce1d7e42b4684bdab.jar" />
+    </item>
+    <item
+        jar="/Users/stefancao/AndroidStudioProjects/Dash-Till-Puff/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/Users/stefancao/AndroidStudioProjects/Dash-Till-Puff/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-23.2.1_f4629b94ac3b79b0aa5d8979241363e66651593f.jar" />
+    </item>
+    <item
+        jar="/Users/stefancao/AndroidStudioProjects/Dash-Till-Puff/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/Users/stefancao/AndroidStudioProjects/Dash-Till-Puff/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.2.1_8cb231050df2ca3e2803916f76afa74f19e7bdc9.jar" />
+    </item>
+
+</items>

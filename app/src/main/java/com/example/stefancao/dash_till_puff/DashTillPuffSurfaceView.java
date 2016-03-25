@@ -1,4 +1,4 @@
-package team.dash_till_puff;
+package com.example.stefancao.dash_till_puff;
 
 import android.content.Context;
 import android.graphics.Bitmap;
@@ -10,11 +10,9 @@ import android.graphics.Rect;
 import android.view.MotionEvent;
 import android.view.SurfaceHolder;
 import android.view.SurfaceView;
-import android.view.View;
-import java.util.ArrayList;
-import java.util.Random;
+
 /**
- * Created by junli on 4/29/15.
+ * Created by stefancao on 3/25/16.
  */
 public class DashTillPuffSurfaceView extends SurfaceView
         implements SurfaceHolder.Callback , TimeConscious {

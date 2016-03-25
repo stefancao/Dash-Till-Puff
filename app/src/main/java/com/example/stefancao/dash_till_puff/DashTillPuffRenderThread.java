@@ -1,10 +1,11 @@
-package team.dash_till_puff;
-/**
- * Created by stefancao on 4/22/15.
- */
+package com.example.stefancao.dash_till_puff;
+
 import android.graphics.Canvas;
 import android.view.SurfaceHolder;
 
+/**
+ * Created by stefancao on 3/25/16.
+ */
 public class DashTillPuffRenderThread extends Thread {
     private final DashTillPuffSurfaceView view;
     private static final int FRAME_Period = 5; //In ms

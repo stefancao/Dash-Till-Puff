@@ -1,15 +1,16 @@
-package team.dash_till_puff;
+package com.example.stefancao.dash_till_puff;
 
 import android.graphics.Canvas;
 import android.graphics.Color;
 import android.graphics.DashPathEffect;
 import android.graphics.Paint;
 import android.graphics.Path;
+
 import java.util.ArrayList;
 import java.util.Random;
 
 /**
- * Created by junli on 4/29/2015.
+ * Created by stefancao on 3/25/16.
  */
 public class Trajectory implements TimeConscious {
 
@@ -96,4 +97,3 @@ public class Trajectory implements TimeConscious {
         drawTrajectory(c);      //drawing the trajectory
     }
 }
-

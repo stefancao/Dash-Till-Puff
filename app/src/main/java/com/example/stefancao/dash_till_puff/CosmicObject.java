@@ -1,14 +1,12 @@
-package team.dash_till_puff;
+package com.example.stefancao.dash_till_puff;
 
 import android.graphics.Bitmap;
-
 import android.graphics.Canvas;
 import android.graphics.Paint;
 import android.graphics.Rect;
 
-
 /**
- * Created by junli on 4/29/15.
+ * Created by stefancao on 3/25/16.
  */
 public class CosmicObject {
 
